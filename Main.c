@@ -10,7 +10,7 @@ void main()
 	InitStack(&Solution);
 	printf("Original Matrix:\n");
 	SetMatrix(&OriginalMatrix);
-	printf("%Origin:\n");
+	printf("Origin:\n");
 	PrintMatrix(OriginalMatrix);
 	printf("Target Matrix:\n");
 	SetMatrix(&TargetMatrix);
